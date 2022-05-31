@@ -9,6 +9,7 @@ const routes = [
     path: "/",
     name: "home",
     component: HomeComp,
+    meta: { title: "Thomas Errington" },
   },
 ];
 
