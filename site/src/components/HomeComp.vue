@@ -251,15 +251,10 @@
                   <v-col
                     ><h3>Pulsar Creations</h3>
                     <p>
-                      I had the opportunity to work with Bluetooth Low Energy
-                      beacons that could be used as proximity advertising, asset
-                      tracking, gaming, and many other applications. The
-                      interesting thing about working with beacons is the
-                      connection from the software to the hardware. It’s a bit
-                      of the best of both worlds. Many times, writing software
-                      yields nothing more than a change of color on a screen,
-                      but when using something like BLE beacons the interaction
-                      is rooted in the physical world.
+                    Pulsar Creations is a project which is a mesh between learning web technologies and pursuing a hobby in astronomy. I took many undergraduate classes in the field of astronomy and was introduced to equations and concepts that fueled my curiosity.  The site is a small collection of calculators and concepts that are a bit difficult to grasp at first glance. 
+                    </p>
+                    <p>
+                    The site includes a few calculators that allow someone to input desired amounts to realize the complexity and scale of space and time. Hollywood portrayals, while exciting and fun, don’t address some of the true physics and challenges presented by space travel and observation. Hopefully, Pulsar Creations allows for a better understanding the great cosmos above. 
                     </p>
                     <v-btn class="pulsar-link" @click="gotoPulsar"
                       >Pulsar Creations</v-btn
